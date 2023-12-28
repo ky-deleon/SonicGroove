@@ -236,7 +236,7 @@ with dpg.window(tag="main",label="window title"):
 			dpg.add_text("SonicGroove",color=(255, 255, 255))
 			dpg.add_text("Build by BeatCrafters")
 			dpg.add_spacer(height=2)
-			dpg.add_button(label="Support", width=-1, height=23, callback=lambda: webbrowser.open(url="https://github.com/NotCookey/Rainy"))
+			dpg.add_button(label="Support", width=-1, height=23, callback=lambda: webbrowser.open(url="https://github.com/ky-deleon/SonicGroove"))
 			dpg.add_spacer(height=5)
 			dpg.add_separator()
 			dpg.add_spacer(height=5)
